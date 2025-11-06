@@ -13,6 +13,7 @@ This system provides more efficiency as it results in a lot of time and energy b
 
 The ER diagram below shows the relationship between the many tables that exist in the database for the functioning of Online Examination System.
 
+<img width="1095" height="1003" alt="image" src="https://github.com/user-attachments/assets/fe10ef7d-6ce2-4385-9407-1e93ce4f1907" />
 
 Fig: ER Diagram of Online Examination System
 
@@ -57,3 +58,42 @@ Staff can see the scoreboard of the quiz which is added by him/her. The student 
 
 ----------------------------------------------------------------------------------------
 
+### Snapshots -
+<p><img width="968" height="644" alt="image" src="https://github.com/user-attachments/assets/32b00a5f-3b7a-478b-8ac3-e049a538a792" />
+Snapshot 1: Home page of the project <br>
+</p>
+<p>
+<img width="960" height="587" alt="image" src="https://github.com/user-attachments/assets/2ce96225-3cf0-4c74-9cb3-bf19b8f6b75d" />
+Snapshot 2: Sign Up Page <br>
+</p>
+<p>                                            
+<img width="961" height="474" alt="image" src="https://github.com/user-attachments/assets/526cc406-1766-4ddb-b1b5-2a312b53e2e2" />
+Snapshot 3: Dashboard for Students <br>
+</p>
+<p>
+<img width="992" height="419" alt="image" src="https://github.com/user-attachments/assets/bbeb011b-6397-45c7-a599-d0bd6085f6a2" />
+Snapshot 4: Leaderboard for Students <br>
+</p>
+<p>
+<img width="988" height="484" alt="image" src="https://github.com/user-attachments/assets/5108f148-6506-443c-af2b-a7c2b5cc612f" />
+Snapshot 5: Quiz for Student <br>
+</p>
+<p>
+<img width="995" height="393" alt="image" src="https://github.com/user-attachments/assets/89bd9740-2ef2-42de-b38a-a1094e7d7b8e" />
+Snapshot 6: Scoreboard for Student <br>
+</p>
+<p>
+<img width="981" height="458" alt="image" src="https://github.com/user-attachments/assets/ee59c63a-4b44-4c69-af73-a0d0e56360d2" />
+Snapshot 7: Dashboard for Staff <br>
+</p>
+<p>
+<img width="962" height="386" alt="image" src="https://github.com/user-attachments/assets/521321a5-fd17-4b06-beba-d5db30769e09" />
+Snapshot 8: Add Quiz, Delete Quiz, View Quiz functionalities for Staff <br>
+</p>
+<p>
+<img width="983" height="383" alt="image" src="https://github.com/user-attachments/assets/96005c76-ddeb-4467-b74a-6c3ed6023e25" />
+Snapshot 9: Quizzes Added by Staff <br>
+</p>
+<p>
+<img width="976" height="478" alt="image" src="https://github.com/user-attachments/assets/a64f1971-5430-46d8-bc96-3f4d998ac10d" />
+Snapshot 10: Add questions functionality for Staff <br> </p>
